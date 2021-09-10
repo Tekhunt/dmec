@@ -210,7 +210,8 @@
         display: none;
     }
     
-    .socials:hover>.icon {
+    .socials:hover>.icon,
+    .hover {
         display: block
     }
     
